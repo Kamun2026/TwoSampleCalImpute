@@ -17,3 +17,5 @@ Suggests:
     roxygen2,
     testthat,
     usethis
+URL: https://github.com/Kamun2026/TwoSampleCalImpute
+BugReports: https://github.com/Kamun2026/TwoSampleCalImpute/issues
