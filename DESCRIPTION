@@ -1,0 +1,19 @@
+Package: TwoSampleCalImpute
+Type: Package
+Title: Two-Sample Calibrated Imputation for Survey Data
+Version: 0.0.0.9000
+Authors@R: person("Samuel Joel Kamun", email = "samuelkamun@gmail.com", role = c("aut", "cre"))
+Description: Provides computational implementations of the Two-Sample Calibrated Imputation framework for incomplete survey data when auxiliary information is available from a separate reference sample. The package supports data preparation, survey design specification, calibration, imputation, estimation, variance estimation, diagnostics, reporting, and reproducible analytical workflows.
+Depends: R (>= 4.3.0)
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
+Suggests: 
+    covr,
+    devtools,
+    pkgdown,
+    rcmdcheck,
+    roxygen2,
+    testthat,
+    usethis

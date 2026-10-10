@@ -1,0 +1,9 @@
+^TwoSampleCalImpute\.Rproj$
+^\.Rproj\.user$
+^\.git$
+^\.github$
+^docs$
+^pkgdown$
+^README\.Rmd$
+^cran-comments\.md$
+^LICENSE\.md$
